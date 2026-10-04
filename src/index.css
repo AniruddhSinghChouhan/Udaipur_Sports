@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #4e6300;
+  --color-primary-container: #cafd00;
+  --color-on-primary-container: #4a5e00;
+  --color-on-primary: #e1ff88;
+  --color-surface: #f6f6f8;
+  --color-on-surface: #2d2f31;
+  --color-on-surface-variant: #5a5c5d;
+  --color-surface-container-low: #f0f1f3;
+  --color-surface-container-lowest: #ffffff;
+  --color-surface-container-high: #e1e2e5;
+  --color-outline-variant: #acadaf;
+  --color-outline: #757779;
+  
+  --font-headline: "Space Grotesk", sans-serif;
+  --font-body: "Manrope", sans-serif;
+  --font-label: "Lexend", sans-serif;
+}
+
+@utility text-glow {
+  text-shadow: 0 0 20px rgba(202, 253, 0, 0.3);
+}
+
+@utility kinetic-gradient {
+  background: linear-gradient(135deg, #4e6300 0%, #cafd00 100%);
+}

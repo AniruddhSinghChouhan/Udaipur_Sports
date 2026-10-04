@@ -1,0 +1,6 @@
+{
+  "name": "Udaipur Sports",
+  "description": "High-performance athletic gear curated for sports pros, featuring editorial layouts, product selection, filtering, and a seamless checkout experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
