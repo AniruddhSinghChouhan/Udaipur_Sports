@@ -14,6 +14,7 @@ View your app in AI Studio: https://ai.studio/apps/2f5a743f-2f09-42f0-b5d9-05bcf
 
 Run the project :-
 1.npm.cmd install
+
 2.npm.cmd run dev
 
 Deploy Link:-(https://udaipur-sports.web.app)
